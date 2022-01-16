@@ -1,0 +1,32 @@
+.NinjaContainer {
+  margin: 5px auto;
+  background-color: rgb(145, 219, 219);
+  height: auto;
+  width: 300px;
+  border-radius: 10px;
+}
+/* .NinjaContainer > div {
+  flex: 0.5;
+} */
+h2,
+p {
+  text-align: center;
+}
+.NinjaContain {
+  display: flex;
+  margin: 5px;
+  flex-wrap: wrap;
+}
+/* .NinjaContain > div {
+  flex: 1;
+} */
+h1 {
+  text-align: center;
+  box-shadow: 2px aqua;
+}
+input {
+  display: block;
+  margin: 0px auto 30px auto;
+  border: 8px solid indianred;
+  padding: 8px;
+}
