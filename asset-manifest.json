@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ninjaTurtles/static/css/main.dcf73449.chunk.css",
+    "main.js": "/ninjaTurtles/static/js/main.4be6e0e1.chunk.js",
+    "main.js.map": "/ninjaTurtles/static/js/main.4be6e0e1.chunk.js.map",
+    "runtime-main.js": "/ninjaTurtles/static/js/runtime-main.580cbfa8.js",
+    "runtime-main.js.map": "/ninjaTurtles/static/js/runtime-main.580cbfa8.js.map",
+    "static/js/2.fd8827d4.chunk.js": "/ninjaTurtles/static/js/2.fd8827d4.chunk.js",
+    "static/js/2.fd8827d4.chunk.js.map": "/ninjaTurtles/static/js/2.fd8827d4.chunk.js.map",
+    "static/js/3.7908962d.chunk.js": "/ninjaTurtles/static/js/3.7908962d.chunk.js",
+    "static/js/3.7908962d.chunk.js.map": "/ninjaTurtles/static/js/3.7908962d.chunk.js.map",
+    "index.html": "/ninjaTurtles/index.html",
+    "static/css/main.dcf73449.chunk.css.map": "/ninjaTurtles/static/css/main.dcf73449.chunk.css.map",
+    "static/js/2.fd8827d4.chunk.js.LICENSE.txt": "/ninjaTurtles/static/js/2.fd8827d4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ninjaTurtles/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.580cbfa8.js",
+    "static/js/2.fd8827d4.chunk.js",
+    "static/css/main.dcf73449.chunk.css",
+    "static/js/main.4be6e0e1.chunk.js"
+  ]
+}
